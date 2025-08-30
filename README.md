@@ -1,9 +1,10 @@
 # Hi there 👋, I'm Muhammad Ali
 
+
 ## 🌱 About Me
 I am an aspiring Front-End Developer currently learning and growing through the **ALX Front-End Development Program**. I am passionate about building functional and user-friendly web applications and improving my coding skills step by step.
 
-## 💡 What I'm Learning
+##  🚀 Currently Exploring
 I’m actively working on:
 
 - 🖥️ **Shell Commands & Prompting for Learning**  
@@ -22,7 +23,8 @@ I’m actively working on:
 - Gain hands-on experience with **React** and **Tailwind CSS**.  
 - Contribute to open-source projects and collaborate with other learners.  
 
-## 📫 Contact Me
+
+## 📬 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/muhammad-ali-seid/
 - X: https://x.com/muhammad10_ali
 - threads: https://www.threads.com/@asad_022_
