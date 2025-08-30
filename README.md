@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad Ali
 
-<!--
-**Muhammad0023/muhammad0023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+I am an aspiring Front-End Developer currently learning and growing through the **ALX Front-End Development Program**. I am passionate about building functional and user-friendly web applications and improving my coding skills step by step.
 
-Here are some ideas to get you started:
+## 💡 What I'm Learning
+I’m actively working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ **Shell Commands & Prompting for Learning**  
+- 🔧 **Version Control with Git & GitHub**  
+- 💻 **JavaScript Fundamentals & Advanced Concepts**  
+- 🌐 **HTML & CSS (Basics to Advanced)**  
+- 🎨 **Implementing Designs from Scratch**  
+- 🧩 **DOM Manipulation**  
+- ⚛️ **React JS (Components, States, Hooks, Routing)**  
+- 🎨 **Styling with CSS Frameworks & Tailwind CSS**  
+- 🌐 **Working with APIs**  
+- 🚀 **Capstone Project:** Planning, Designing, Building, and Finalizing a Full Front-End Application
+
+## 🚀 Goals
+- Complete the ALX Front-End Development Capstone project successfully.  
+- Gain hands-on experience with **React** and **Tailwind CSS**.  
+- Contribute to open-source projects and collaborate with other learners.  
+
+## 📫 Contact Me
+- Email: muhammadali@example.com  
+- LinkedIn: https://www.linkedin.com/in/muhammad-ali-seid/
+- X: https://x.com/muhammad10_ali
+- threads: https://www.threads.com/@asad_022_
+- blue sky: https://bsky.app/profile/muhammadali0.bsky.social
+
