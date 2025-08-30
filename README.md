@@ -23,7 +23,6 @@ I’m actively working on:
 - Contribute to open-source projects and collaborate with other learners.  
 
 ## 📫 Contact Me
-- Email: muhammadali@example.com  
 - LinkedIn: https://www.linkedin.com/in/muhammad-ali-seid/
 - X: https://x.com/muhammad10_ali
 - threads: https://www.threads.com/@asad_022_
