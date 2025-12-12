@@ -53,10 +53,8 @@
 </p>
 
 <p align="center">
-  <!-- Graph of contributions (dynamic) -->
-  <img src="https://ghchart.rshah.org/muhammad0023" alt="GitHub Contributions Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad0023&bg_color=1f2229&color=f0883d&line=ff9e42&point=ffffff&hide_border=true" alt="Muhammad Ali's GitHub Activity Line Graph" />
 </p>
-
 
 
 ### 📬 Connect With Me
